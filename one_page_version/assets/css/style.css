@@ -1415,7 +1415,7 @@ a:active.learn-btn{
 	height:50px;
 	width: 195px;
 	border:1px solid rgb(0 78 46);
-	text-transform:uppercase;
+	/*text-transform:uppercase;*/
 	font-family: 'Poppins', sans-serif;
 	margin-top: 3px;
 	-webkit-transition: .5s; 
